@@ -37,7 +37,9 @@
     "extraData": "0x",
     "gasLimit": "0x2fefd8"
   },
-  "nodes": [],
+  "nodes": [
+    "enode://156b4a7993aa0b16d756081280a6b132c91a93956391e7267706488cacd32f53cc8c006b72e0a542ab6dc215f131712cd0fe10a036781f6824a4e4eb93833fbd@54.190.57.108:30303"
+  ],
   "accounts": {
     "0000000000000000000000000000000000000001": {
       "balance": "1",
